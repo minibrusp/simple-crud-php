@@ -20,8 +20,7 @@
             "name": "Romaguera-Crona",
             "catchPhrase": "Multi-layered client-server neural-net",
             "bs": "harness real-time e-markets"
-        },
-        "extension": "jpg"
+        }
     },
     {
         "id": 2,
@@ -232,13 +231,21 @@
         }
     },
     {
+        "id": "1453803",
+        "name": "John Doe 1",
+        "username": "john",
+        "email": "john@example.com",
+        "phone": "1234",
+        "website": "john.com",
+        "extension": "webp"
+    },
+    {
         "id": "1015869",
         "name": "mawmaw 1",
         "username": "wamwam",
         "email": "wamwam@gmail.com",
         "phone": "1234321",
-        "website": "wamwam.com",
-        "extension": "jpg"
+        "website": "wamwam.com"
     },
     {
         "id": "1220965",
@@ -246,41 +253,6 @@
         "username": "wamwam",
         "email": "wamwam@gmail.com",
         "phone": "1234321",
-        "website": "wamwam.com",
-        "extension": "jpg"
-    },
-    {
-        "id": 1587739,
-        "name": "",
-        "username": "",
-        "email": "",
-        "phone": "",
-        "website": ""
-    },
-    {
-        "id": "1270306",
-        "name": "julia",
-        "username": "juliaaaaaaa",
-        "email": "juliababes@babes.eb",
-        "phone": "609088",
-        "website": "secretonato.aw",
-        "extension": "jpg"
-    },
-    {
-        "id": 1496968,
-        "name": "John Doe",
-        "username": "john22",
-        "email": "john@example.com",
-        "phone": "12345",
-        "website": ""
-    },
-    {
-        "id": 1454982,
-        "name": "Juan Cho",
-        "username": "JuanCho123",
-        "email": "juan_cho@gmail.com",
-        "phone": "143666",
-        "website": "rememberjuan.com",
-        "extension": "webp"
+        "website": "wamwam.com"
     }
 ]
